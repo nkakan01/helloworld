@@ -13,9 +13,9 @@ import org.springframework.validation.Errors;
 public class OwnerValidator {
 
 	public void validate(Owner owner, Errors errors) {
-		if (!StringUtils.hasLength(owner.getFirstName())) {
-			errors.rejectValue("firstName", "required", "required");
-		}
+		//if (!StringUtils.hasLength(owner.getFirstName())) {
+			//errors.rejectValue("firstName", "required", "required");
+		//}
 		if (!StringUtils.hasLength(owner.getLastName())) {
 			errors.rejectValue("lastName", "required", "required");
 		}
