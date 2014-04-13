@@ -8,7 +8,6 @@
 @author Costin Leau
 @author Sam Brannen
 @author Scott Andrews
-@author Nagendra Kumar Kakani
 
 ==========================================================================
 === Data Access Strategies
