@@ -1,5 +1,5 @@
 ==========================================================================
-=== Spring PetClinic Sample Application
+=== Nagendra PetClinic Sample Application
 ==========================================================================
 
 @author Ken Krebs
