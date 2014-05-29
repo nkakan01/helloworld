@@ -1,5 +1,5 @@
 ==========================================================================
-=== Test PetClinic Sample Application
+=== kakani PetClinic Sample Application
 ==========================================================================
 
 @author Ken Krebs
